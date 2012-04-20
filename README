@@ -1,4 +1,5 @@
 Maven repository for my projects. To import a dependency from this repository use this XML:
+THIS IS A FORK SO THAT I COULD CUT A RELEASE
 
   <repositories>
       <repository>
